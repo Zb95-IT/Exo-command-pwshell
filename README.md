@@ -10,7 +10,7 @@ Pour faire cet exercice, j'ai exploré les commandes de PowerShell en testant di
 6. get alias
 7. Get-Alias
 
-## Les commandes en question
+## Les commandes en question :
 
 
 * cp : Copy-Item
